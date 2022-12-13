@@ -1,0 +1,30 @@
+body{
+  background-color:#161515 ;
+}
+
+.imgg{
+  width: 100px;
+  border-radius: 1px;
+  display: inline-block;
+  margin: 1px 10px;
+}
+.imgg:hover{
+  width: 110px;
+  
+}
+p{
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: cursive;  color: #0088ff;
+  margin: 50px 0px;
+}
+button{
+  text-transform: uppercase;
+  font-weight: 300;
+  color: #f5f5dc;
+  border-radius: 1px;
+  width: 200px;
+  height: 40px;
+  background-color: #f0f8ff00;
+}
